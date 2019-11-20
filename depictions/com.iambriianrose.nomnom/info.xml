@@ -1,0 +1,23 @@
+<package>
+	<id>com.iambriianrose.nomnom</id>
+	<name>nom_nom</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.2.2+</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>an ios theme for ios8-13.2.2+</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release for ios13</change>
+	</changelog>
+	<links></links>
+</package>
